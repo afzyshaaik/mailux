@@ -1,0 +1,309 @@
+
+
+.rectangle-top{
+  background-color: rgba(205,201,201,1.0);
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 1920px;
+}
+
+.rectangle-top h1 {
+  background-color: transparent;
+  color:rgb(65, 65, 65);
+  font-family: "Helvetica Neue-Light", "Helvetica";
+  font-size: 25px;
+  font-weight: 100;
+  padding-top:10px;
+  padding-left:50px;
+  width:auto;
+}
+
+.left-box{
+  background-color: #fff;
+  border: 2px solid rgba(196,196,196,1.0);
+  height: 699px;
+  left: 0px;
+  position: absolute;
+  top:50px;
+  width: 420px;
+
+}
+
+.casing-box h2 {
+  background-color: transparent;
+  color: #fff;
+  font-family: "Helvetica Neue","Helvetica";
+  font-size:28px;
+  font-style: normal;
+  font-weight: 300;
+  padding-left:15px;
+  padding-top:20px;
+
+
+}
+
+.casing-box{
+
+  background-color: rgba(129,129,129,1.0);
+  height: 70px;
+  position: absolute;
+  width: 420px;
+
+}
+
+.cont-item1 {
+  height: 50px;
+  width:420px;
+  background-color: rgb(252, 252, 252);
+  transform: translateY(1rem);
+  border-bottom: 1px solid rgb(168, 168, 168);
+  
+  
+}
+
+.cont-item1 h3 {
+  background-color: transparent;
+  color: rgb(2, 2, 2);
+  font-size: 20px;
+  font-weight:100;
+  padding-left: 15px;
+  padding-top:10px;
+
+}
+
+ .MuiSvgIcon-root {  
+  position: absolute;
+  transform:translateY(-1.4rem);
+  padding-left:380px;
+  color:rgb(168, 168, 168);
+
+  
+}
+
+.right-box {
+  padding-top:6px;
+  padding-left:450px;
+  height:700px;
+  width: 700px;
+  position: absolute;
+
+  
+  
+
+  
+  
+  
+}
+
+.right-box{
+
+}
+
+.right-box h3 {
+  background-color: transparent;
+  
+  padding-top: 45px;
+  transform: translate(1.5rem,-0.5rem);
+  font-family: "Helvetica Neue","Helvetica";
+  font-size: 25px;
+  font-weight: 300;
+  color: rgb(151, 150, 150);
+
+
+
+
+}
+
+.right-box #b {
+  padding-left: 170px;
+  
+  padding-bottom: 9px;
+  transform: translateY(3px);
+}
+
+.heading-line {
+  background-color: rgb(168, 168, 168);
+  height: 2px;
+  
+  width: 800px;
+  transform: translateX(1.8rem);
+  
+
+}
+
+.heading-line h3 {
+  padding-top: 50px;
+  transform: translateX(2rem);
+  padding-bottom: 10px;
+}
+
+
+.email-box{
+
+  height: 700px;
+
+  width: 1000px;
+
+  background-color: rgb(228, 228, 228);
+
+  
+
+  padding-right: 120px;
+
+  
+
+
+  
+
+  
+
+  
+  
+  
+
+}
+
+.email-box input {
+  
+  display: flex;
+  width: 500px;
+  transform: translateY(38px);
+  border: none;
+  
+  
+
+}
+
+
+.email-box h4 {
+  background-color: transparent;
+  height:9px;
+  width:auto;
+  font-family:"Helvetica";
+  
+  font-weight: 400;
+  padding: 20px 15px 0px 55px;
+  
+  
+
+  text-align: left;
+  white-space:nowrap;
+ 
+  
+
+  
+}
+
+.email-box #b{
+  
+  height: 300px;
+  width:505px;
+  transform: translate(0px,40px);
+  padding: 20px 30px;
+  box-sizing: border-box;
+  
+  
+  
+}
+
+.email-box #c {
+  transform: translateY(-17.5rem);
+}
+
+.tab1 {
+  height:50px;
+  width: 155px;
+  background-color: rgb(221, 221, 221);
+  transform: translate(-200px,40px);
+  border-radius:15px 15px 0px 0px;
+  border-top: 0.5px solid;
+    border-left: 0.5px solid;
+    border-right: 0.5px solid;
+}
+
+.tab2 {
+  height: 49px;
+    width: 185px;
+    transform: translate(-1rem, -10px);
+    background-color: grey;
+    border-radius: 15px 15px 0px 0px;
+    border-top: 0.5px solid;
+    border-left: 0.5px solid;
+    border-right: 0.5px solid;
+}
+
+.tab1 h3{
+  display: block;
+  transform: translate(49px,-29px);
+  color:black;
+  font-size: 20px;
+
+}
+
+.tab2 h3 {
+  display: block;
+  transform: translate(35px,-30px);
+  color:white;
+  font-size: 20px;
+}
+
+
+.tab1-email {
+  height: 550px;
+  width: 1150px;
+  background-color: rgb(221, 221, 221);
+  transform: translate(10px, -10px);
+}
+
+
+.col1 {
+  float: left;
+  width:25%;
+  margin-top: 5px;
+  transform: translate(80px,60px);
+  color:#646464;
+  
+}
+
+.col2 {
+  float: left;
+  width: 75%;
+  margin-top: 5px;
+  transform: translate(-30px,57px);
+  
+}
+
+input[type="text"],select {
+  height:1px;
+  width: 60%;
+  padding:10px;
+  border:none;
+  
+
+}
+
+.col12 {
+  transform: translate(80px, 105px);
+  color: #646464;
+}
+
+.col13 #lname {
+  transform: translate(255px,80px);
+  width: 520px;
+}
+
+.col14 {
+  transform: translate(80px, 120px);
+  color: #646464;
+}
+
+.col15 #body {
+  transform: translate(255px, 95px);
+  width: 535px;
+  height:250px;
+  border: none;
+
+}
+
